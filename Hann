@@ -1,2 +1,6 @@
-tess
-loadstring(game:HttpGet("https://raw.githubusercontent.com/tienkhanh1/spicy/main/Chilli.lua"))()
+{
+  "name": "Script Chilli",
+  "items": [
+    { "name": "Judul 1", "text": "loadstring(game:HttpGet("https://raw.githubusercontent.com/tienkhanh1/spicy/main/Chilli.lua"))()" }
+  ]
+}
